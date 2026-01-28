@@ -5,7 +5,7 @@
 
 double poly1(double x)
 {
-    // initial bracket [-200, 300]
+    // initial bracket [-5, 1]
     return x * x * x - x * x + 2;
 }
 
